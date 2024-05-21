@@ -36,7 +36,8 @@ function getCookie(name) {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-    const selectedPreset = getCookie("tabCloakPreset");
+    //const selectedPreset = getCookie("tabCloakPreset");
+    const selectedPreset = "studentvue";
 
     const presets = {
         google: {
@@ -70,6 +71,10 @@ document.addEventListener("DOMContentLoaded", function() {
         googledrive: {
             favicon: "../../images/icons/googledrive.ico",
             title: "My Drive"
+        },
+        studentvue: {
+            favicon: "../../images/icons/studentvue.ico",
+            title: "StudentVUE"
         }
     };
 
