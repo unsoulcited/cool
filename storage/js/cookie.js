@@ -1,7 +1,7 @@
 // --- Config --- //
 var purecookieTitle = "cookies"; // Title
 var purecookieDesc = ""; // Description
-var purecookieLink = 'we use cookies on this website to save game progress/store settings. seraph is also powered by google analytics. none of this data is linked towards you.'; // Cookiepolicy link
+var purecookieLink = 'this website uses cookies to save game progress/store settings'; // Cookiepolicy link
 var purecookieButton = "understood"; // Button text
 // ---        --- //
 
